@@ -33,6 +33,7 @@ This project demonstrates **CRUD operations** (Create, Read, Update, Delete) wit
 ---
 
 ## 📷 Screenshot  
-![Student Personal Details Form](e8f4e935-0bf3-4e97-abd8-dd34265de129.png)
+<img width="1920" height="1080" alt="Screenshot 2025-09-24 014530" src="https://github.com/user-attachments/assets/d0e11842-9062-462f-948f-78ea9c4e597e" />
+
 
 ---
